@@ -30,7 +30,7 @@ class TheLogicGate:
 <table align="center">
   <tr>
     <td align="center"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=php,py,cpp,js,html,css&theme=dark" alt="PHP, Python, C++, JavaScript, HTML, CSS"/></td>
+    <td><img src="https://skillicons.dev/icons?i=php,py,cpp,js,ts,html,css&theme=dark" alt="PHP, Python, C++, JavaScript, TypeScript, HTML, CSS"/></td>
   </tr>
   <tr>
     <td align="center"><b>Backend &amp; Data</b></td>
@@ -38,7 +38,7 @@ class TheLogicGate:
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,windows&theme=dark" alt="Git, GitHub, VS Code, Windows"/></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,kali,linux,windows&theme=dark" alt="Git, GitHub, VS Code, Kali Linux, Linux, Windows"/></td>
   </tr>
 </table>
 
