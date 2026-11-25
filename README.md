@@ -8,7 +8,7 @@
 
 <br/>
 
-## 🧠 About
+## About
 
 ```python
 class TheLogicGate:
@@ -18,14 +18,14 @@ class TheLogicGate:
     principle = "if it repeats, automate it"
 ```
 
-- 🔧 I build backend services, automation tools and scrapers
-- 🗄️ I design and query relational databases
-- ⚙️ I like low-level problems as much as web ones, hence C++ next to PHP and Python
-- 📦 Most of my work lives in private repositories
+- I build backend services, automation tools and scrapers
+- I design and query relational databases
+- I like low-level problems as much as web ones, hence C++ next to PHP and Python
+- Most of my work lives in private repositories
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table align="center">
   <tr>
@@ -44,7 +44,7 @@ class TheLogicGate:
 
 <br/>
 
-## 📊 Activity
+## Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=thelogicgate&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" height="170"/>
